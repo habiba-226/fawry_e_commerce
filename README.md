@@ -16,7 +16,7 @@ Quantum Bookstore is a simple Java console-based application that simulates an o
 - Remove outdated books published before a certain number of years
 - All console output is prefixed with **Quantum book store**
 
-## 🛠Technologies Used
+## Technologies Used
 
 - Java (OpenJDK 23)
 - IntelliJ IDEA Ultimate
@@ -33,7 +33,7 @@ Quantum Bookstore is a simple Java console-based application that simulates an o
 ## Screenshots
 
 ### App Running in IntelliJ (Successful Purchases)
-![App Running with error handling](screenshots/output1.png)
+![App Running with error handling](screenshot/output1.png)
 
 ## Folder Structure
 Quantum Bookstore/
